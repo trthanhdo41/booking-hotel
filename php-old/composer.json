@@ -1,0 +1,13 @@
+{
+    "name": "hotel-booking/google-sheets",
+    "description": "Hotel Booking System with Google Sheets",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Developer"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.18"
+    }
+}
